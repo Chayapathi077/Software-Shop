@@ -1,4 +1,4 @@
-# **App Name**: Lightning Launch
+# **App Name**: Software-Shop
 
 ## Core Features:
 
